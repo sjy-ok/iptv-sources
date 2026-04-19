@@ -1,4 +1,4 @@
-# List for **iptv.org stream China**
+# List for **iptv.org stream China**(Rollback)
 
 > M3U: [o_s_cn.m3u](/o_s_cn.m3u), TXT: [o_s_cn.txt](/txt/o_s_cn.txt)
 
@@ -383,4 +383,4 @@
 | 377 | CCTV-16 | IPv4 直链 | <http://74.91.26.218:82/live/cctv16hd.m3u8> |
 | 378 | CCTV-9 (576i) | xykt-fix.github.io | <https://xykt-fix.github.io/Y77.m3u8> |
 
-Updated at **Sun Apr 19 2026 14:37:52 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 19 2026 16:34:45 GMT+0000 (Coordinated Universal Time)**

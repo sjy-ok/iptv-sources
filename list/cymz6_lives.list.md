@@ -1,4 +1,4 @@
-# List for **cymz6/AutoIPTV-Hotel lives**
+# List for **cymz6/AutoIPTV-Hotel lives**(Rollback)
 
 > M3U: [cymz6_lives.m3u](/cymz6_lives.m3u), TXT: [cymz6_lives.txt](/txt/cymz6_lives.txt)
 
@@ -11,4 +11,4 @@
 | 5 | 河南民生 | IPv4 直链 | <http://125.43.244.73:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 6 | 魅力音乐 | IPv4 直链 | <http://125.43.244.73:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sun Apr 19 2026 14:37:52 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 19 2026 16:34:45 GMT+0000 (Coordinated Universal Time)**
